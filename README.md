@@ -76,11 +76,6 @@ Legenda:
 - Email: marioniangi07@gmail.com
 - Twitter: @MarioNiangi
 
-## ⚡ Fato Curioso
-
-Sabia que o primeiro bug de computador foi literalmente um inseto? Em 1947, Grace Hopper encontrou uma mariposa presa em um relé do computador Harvard Mark II!
-
-
 
 ---
 <p align="center">
